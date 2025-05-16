@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode and other IDE configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Test, coverage, and profiling
+coverage.xml
+*.cover
+*.py,cover
+.cache/
+nosetests.xml
+*.prof
+*.dat
+
+# Python egg and build artifacts
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Wheel files
+*.whl
+
+# Pipenv / Poetry / Conda environment files
+Pipfile.lock
+poetry.lock
+*.conda
+
+# Jupyter runtime files
+.jupyter/
