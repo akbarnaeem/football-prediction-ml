@@ -15,18 +15,27 @@ A machine learning project that predicts the outcome of football matches (win/dr
 
 ## 📁 Project Structure
 .
-├── main.py # Entry point for running predictions
+├── main.py 
+
 ├── src/
+
 │ ├── init.py
-│ ├── data_loader.py # Functions to load and preprocess data
-│ ├── model.py # Random Forest model definition
-│ ├── predict.py # Prediction logic
-├── models/ # (Optional) Trained model files
-├── requirements.txt # Project dependencies
-├── .gitignore # Ignored files/folders
-├── setup.py # Project setup (optional for packaging)
+
+│ ├── data_loader.py
+
+│ ├── model.py 
+
+│ ├── predict.py 
+
+├── requirements.txt 
+
+├── .gitignore 
+
+├── setup.py
+
 ├── LICENSE
-└── README.md # Project documentation
+
+└── README.md 
 
 
 
