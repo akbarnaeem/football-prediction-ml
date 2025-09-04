@@ -15,29 +15,17 @@ A machine learning project that predicts the outcome of football matches (win/dr
 
 ## 📁 Project Structure
 .
-├── main.py 
-
+├── main.py
 ├── src/
-
-│ ├── init.py
-
-│ ├── data_loader.py
-
-│ ├── model.py 
-
-│ ├── predict.py 
-
-├── requirements.txt 
-
-├── .gitignore 
-
+│   ├── __init__.py
+│   ├── data_loader.py
+│   ├── model.py
+│   ├── predict.py
+├── requirements.txt
+├── .gitignore
 ├── setup.py
-
 ├── LICENSE
-
-└── README.md 
-
-
+└── README.md
 
 ---
 
