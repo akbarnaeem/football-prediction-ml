@@ -13,20 +13,6 @@ A machine learning project that predicts the outcome of football matches (win/dr
 
 ---
 
-## 📁 Project Structure
-.
-├── main.py
-├── src/
-│   ├── __init__.py
-│   ├── data_loader.py
-│   ├── model.py
-│   ├── predict.py
-├── requirements.txt
-├── .gitignore
-├── setup.py
-├── LICENSE
-└── README.md
----
 
 ## 🛠️ Installation & Usage
 
