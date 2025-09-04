@@ -26,7 +26,6 @@ A machine learning project that predicts the outcome of football matches (win/dr
 ├── setup.py
 ├── LICENSE
 └── README.md
-
 ---
 
 ## 🛠️ Installation & Usage
